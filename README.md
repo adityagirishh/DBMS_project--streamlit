@@ -1,4 +1,4 @@
-# DBMS Project - Streamlit
+# DataVista - DBMS project
 
 ![DBMS Project](https://img.shields.io/badge/DBMS-Streamlit%20App-blue.svg)
 
